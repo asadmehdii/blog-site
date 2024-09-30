@@ -7,7 +7,7 @@ Clone the repository
 
 
 Copy code
-git clone https://github.com/yourusername/blog-frontend.git
+git clone https://github.com/asadmehdii/blog-site
 cd blog-frontend
 Install dependencies
 
